@@ -34,7 +34,7 @@
 
 
 📫 : heahn153@gmail.com  <br>
-📝 :
+📝 : https://hyuneuiahn.github.io/
 
 <br>
   
