@@ -39,11 +39,11 @@
 
 
 <!--
-[![](https://raw.githubusercontent.com/hyunEuiAhn/Card/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/gyoogle) [![](https://raw.githubusercontent.com/hyunEuiAhn/Card/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/hyunEuiAhn)
-[![](https://raw.githubusercontent.com/gyoogle/Card/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/gyoogle) [![](https://raw.githubusercontent.com/hyunEuiAhn/Card/master/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/hyunEuiAhn)
-[![Gyoogle's github stats](https://github-readme-stats.vercel.app/api?username=hyunEuiAhn&show_icons=true&theme=radical)](https://github.com/gyoogle/github-readme-stats)
+[![](https://raw.githubusercontent.com/hyunEuiAhn/Card/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/hyunEuiAhn) [![](https://raw.githubusercontent.com/hyunEuiAhn/Card/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/hyunEuiAhn)
+[![](https://raw.githubusercontent.com/hyunEuiAhn/Card/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/hyunEuiAhn) [![](https://raw.githubusercontent.com/hyunEuiAhn/Card/master/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/hyunEuiAhn)
+[![Gyoogle's github stats](https://github-readme-stats.vercel.app/api?username=hyunEuiAhn&show_icons=true&theme=radical)](https://github.com/hyunEuiAhn/github-readme-stats)
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=gyoogle&theme=onedark)](https://github.com/hyunEuiAhn/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hyunEuiAhn&theme=onedark)](https://github.com/hyunEuiAhn/github-profile-trophy)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kim6394)](https://solved.ac/kim6394)
 -->
 
