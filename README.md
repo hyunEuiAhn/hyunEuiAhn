@@ -49,6 +49,7 @@
 
 
 📫 : heahn153@gmail.com  <br>
+📝 : https://sweet-plywood-28d.notion.site/5e0cfd87e0f444daaa89b56726b376d4 <br>
 📝 : https://hyuneuiahn.github.io/
 
 <br>
